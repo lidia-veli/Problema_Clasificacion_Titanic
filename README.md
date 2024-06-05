@@ -1,5 +1,5 @@
-link repo: https://github.com/lidia-veli/Problema_Clasificacion_Titanic
-link Google Colab: https://drive.google.com/file/d/1sCBXC6Fszfebnwf6dBX3oNiggYLNL35G/view?usp=sharing
+Link [repositorio Github](https://github.com/lidia-veli/Problema_Clasificacion_Titanic)  
+Link [Google Colab](https://drive.google.com/file/d/1sCBXC6Fszfebnwf6dBX3oNiggYLNL35G/view?usp=sharing)
 
 # Problema de clasificación: Titanic
 Usando el conocido dataset con información de los pasajeros del Titanic, comparar la precisión de los siguientes modelos de clasificación para predecir la supervivencia de los pasajeros:
